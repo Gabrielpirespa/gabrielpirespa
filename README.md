@@ -1,8 +1,8 @@
 public class @Gabrielpirespa {
 
-  public static void main (String[] args) {
+  public static void main (String[ ] args) {
   
-    private String interests, learning, looking;
+    public String interests, learning, looking;
     
     this.interests = "to build mobile applications using Java";
     
